@@ -1,4 +1,7 @@
-﻿namespace DeliveryOrders.Doamin.Entities
+﻿using System;
+using System.Collections.Generic;
+
+namespace DeliveryOrders.Doamin.Entities
 {
     public class Order : Basket
 

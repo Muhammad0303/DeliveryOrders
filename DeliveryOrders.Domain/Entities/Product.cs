@@ -1,4 +1,6 @@
-﻿namespace DeliveryOrders.Doamin.Entities
+﻿using System;
+
+namespace DeliveryOrders.Doamin.Entities
 {
     public class Product : EntityBase
     {
